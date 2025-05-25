@@ -67,7 +67,7 @@ The build was triggered using **Build Now** in Jenkins. Jenkins fetched the proj
 
 ---
 
-## 📸 Screenshots (Suggested)
+## 📸 Screenshots 
 
 - Jenkins build console showing `[INFO] BUILD SUCCESS`
 - Freestyle job configuration page with Maven build settings
